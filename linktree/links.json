@@ -1,0 +1,24 @@
+{
+  "links": [
+    {
+      "name": "Portfólio",
+      "url": "../index.html",
+      "icon": "<i class='fa-solid fa-briefcase'></i>"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/mari-378",
+      "icon": "<i class='fa-brands fa-github'></i>"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mariana-melo-221b3a278/",
+      "icon": "<i class='fa-brands fa-linkedin'></i>"
+    },
+    {
+      "name": "WhatsApp",
+      "url": "https://wa.me/5582993695709",
+      "icon": "<i class='fa-brands fa-whatsapp'></i>"
+    }
+  ]
+}
